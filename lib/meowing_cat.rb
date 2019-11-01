@@ -9,12 +9,12 @@ class Cat
  
 end
 
-maru = Cat.new
-maru.name = "Maru"
+# = Cat.new
+#maru.name = "Maru"
  
-p maru.name
+#p maru.name
 # => "Maru"
  
-maru.meow
+#maru.meow
 # "meow!"
 # => nil
